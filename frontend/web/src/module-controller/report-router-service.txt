@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\module-controller\report-router-service.txt
+// Generated at: 2025-10-16T16:01:01.317Z
